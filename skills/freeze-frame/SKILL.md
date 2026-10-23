@@ -63,7 +63,7 @@ it does.
 
 ## Credit
 
-We call it Rounders, after the poker film that set the mood for our first one. The device itself is the
+We call it Rounders because our first one was set at a poker table. The device itself is the
 freeze-frame character introduction that Danny Boyle's Trainspotting and Guy Ritchie's Lock, Stock and Snatch made
 famous. Made with Seedance 2 (ByteDance) on
 Replicate, cut with ffmpeg, titled with Pillow.

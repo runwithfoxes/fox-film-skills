@@ -21,8 +21,7 @@ Write every clip's prompt with the same character description, the same ring, th
 or the slide changes colour between cuts. Only the camera words change.
 
 The face is the joke, so every prompt carries the same energy words: "completely bored unimpressed expression,
-total indifference, even as the water splashes over him". The model wants the character to look thrilled on a
-waterslide. Say it twice if you have to.
+total indifference, even as the water splashes over them".
 
 The last shot is a close-up, wet fur or hair, flat stare at the lens. That is the frame people remember, and the
 frame a headline sits on if it is an ad.

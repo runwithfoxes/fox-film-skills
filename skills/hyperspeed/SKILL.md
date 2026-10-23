@@ -16,7 +16,7 @@ Read `film-basics` first. It has the character set-up, the model call, the price
 Start with your character description, word for word. Then the scene, written as a path the camera travels, from far
 to near. Then anchor the character: where they sit, what they hold, and that they stay still. Then the move.
 
-The shape that worked for us, with the character left out:
+A starting prompt in that order:
 
     [your character description]. [Where the character is: sitting on a low stone wall on a sunny rooftop terrace,
     holding a book against the chest with both hands]. The character stays completely still for the entire shot,
