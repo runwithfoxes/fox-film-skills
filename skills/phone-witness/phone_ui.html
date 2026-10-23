@@ -1,0 +1,29 @@
+<!doctype html>
+<!-- The phone camera screen, 720 x 1280, transparent. The timer is drawn separately by timer.py. -->
+<meta charset="utf-8">
+<style>
+  html, body { margin: 0; width: 720px; height: 1280px; background: transparent; overflow: hidden;
+    font-family: -apple-system, "Helvetica Neue", sans-serif; }
+  .rec { position: absolute; top: 54px; left: 0; width: 100%; display: flex; justify-content: center;
+    align-items: center; gap: 9px; }
+  .rec .dot { width: 13px; height: 13px; border-radius: 50%; background: #ff3b30; }
+  .rec .lbl { font-size: 24px; font-weight: 600; color: #fff; letter-spacing: .06em;
+    text-shadow: 0 1px 4px rgba(0,0,0,.6); }
+  .batt { position: absolute; top: 56px; right: 26px; width: 34px; height: 16px;
+    border: 2px solid rgba(255,255,255,.85); border-radius: 4px; }
+  .batt::after { content: ""; position: absolute; left: 2px; top: 2px; bottom: 2px; width: 60%;
+    background: rgba(255,255,255,.9); border-radius: 1px; }
+  .batt::before { content: ""; position: absolute; right: -6px; top: 4px; width: 3px; height: 6px;
+    background: rgba(255,255,255,.85); border-radius: 0 2px 2px 0; }
+  .zoom { position: absolute; bottom: 176px; left: 0; width: 100%; display: flex; justify-content: center; gap: 14px; }
+  .zoom span { width: 44px; height: 44px; border-radius: 50%; background: rgba(20,20,20,.55);
+    color: rgba(255,255,255,.85); font-size: 16px; display: flex; align-items: center; justify-content: center; }
+  .zoom span.on { background: rgba(20,20,20,.75); color: #ffd60a; font-weight: 600; }
+  .shutter { position: absolute; bottom: 54px; left: 50%; transform: translateX(-50%);
+    width: 78px; height: 78px; border-radius: 50%; border: 5px solid rgba(255,255,255,.95); }
+  .shutter::after { content: ""; position: absolute; inset: 7px; border-radius: 12px; background: #ff3b30; }
+</style>
+<div class="rec"><div class="dot"></div></div>
+<div class="batt"></div>
+<div class="zoom"><span>.5</span><span class="on">1x</span><span>3</span></div>
+<div class="shutter"></div>

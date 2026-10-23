@@ -1,0 +1,20 @@
+<!doctype html>
+<meta charset="utf-8">
+<!-- The title lockup at chest height, on a transparent 1280 x 720 page. Change the words, then run render_overlays.py. -->
+<style>
+  html, body { margin: 0; width: 1280px; height: 720px; background: transparent; overflow: hidden; }
+  .wrap { position: absolute; top: 418px; left: 0; width: 1280px;
+    display: flex; flex-direction: column; align-items: center;
+    color: #fff; text-align: center; text-shadow: 0 2px 14px rgba(0,0,0,.65); }
+  .title { font: 400 70px/1.05 Didot, "Bodoni Moda", serif; letter-spacing: .2em; text-transform: uppercase;
+    padding-left: .2em; /* balances the space after the last letter */ }
+  .tag { font: italic 400 27px/1.4 Didot, "Bodoni Moda", serif; letter-spacing: .06em; margin-top: 26px; }
+  .studio { position: absolute; bottom: 118px; left: 0; width: 100%; text-align: center;
+    font: 400 14px/1.4 Didot, "Bodoni Moda", serif; letter-spacing: .42em; text-transform: uppercase;
+    color: rgba(255,255,255,.92); text-shadow: 0 1px 8px rgba(0,0,0,.55); }
+</style>
+<div class="wrap">
+  <div class="title">Your Title</div>
+  <div class="tag">A line under it, in italics.</div>
+</div>
+<div class="studio">A Your Name Picture</div>

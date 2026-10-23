@@ -1,0 +1,27 @@
+<!doctype html>
+<!-- The tap-to-focus square and exposure sun. Move .fbox and .sun to where the face will be about 1.5 s in. -->
+<meta charset="utf-8">
+<style>
+  html, body { margin: 0; width: 720px; height: 1280px; background: transparent; overflow: hidden; }
+  .fbox { position: absolute; top: 420px; left: 200px; width: 240px; height: 240px;
+    border: 2.5px solid #ffd60a; }
+  .fbox::before { content: ""; position: absolute; left: -1px; top: 50%; width: 18px; height: 2.5px;
+    background: #ffd60a; transform: translateY(-50%); }
+  .sun { position: absolute; top: 480px; left: 460px; width: 30px; height: 30px; }
+  .sun .core { position: absolute; inset: 7px; border-radius: 50%; border: 2.5px solid #ffd60a; }
+  .sun .ray { position: absolute; left: 50%; top: 0; width: 2.5px; height: 6px; background: #ffd60a;
+    transform-origin: 50% 15px; }
+</style>
+<div class="fbox"></div>
+<div class="sun">
+  <div class="core"></div>
+  <script>
+    const sun = document.querySelector('.sun');
+    for (let i = 0; i < 8; i++) {
+      const r = document.createElement('div');
+      r.className = 'ray';
+      r.style.transform = `translateX(-50%) rotate(${i * 45}deg)`;
+      sun.appendChild(r);
+    }
+  </script>
+</div>
