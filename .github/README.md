@@ -26,6 +26,7 @@ and the mistakes we made first so you don't have to.
 | [camcorder](../skills/camcorder) | Night-time camcorder footage of your character spray-painting a wall, after Exit Through the Gift Shop. |
 | [green-studio](../skills/green-studio) | Your character acts on a green studio, gets cut out, and is laid on a chart drawn in code. |
 | [trunk-shot](../skills/trunk-shot) | Tarantino's shot from inside a car boot: it opens from black on your character looking down. |
+| [stand-off](../skills/stand-off) | Sergio Leone's duel: your character and a real animal stare each other down over one small thing, in eye close-ups, until both move at once. |
 
 Every skill folder has a short README with one of our films, and a SKILL.md with the method.
 
@@ -57,7 +58,7 @@ third arm now and then.
 The films named here are the inspiration, and the credit belongs to the people who made them: Rounders, Danny
 Boyle's Trainspotting and Guy Ritchie's films for the freeze frame; Martin Scorsese's Goodfellas, filmed by Michael
 Ballhaus, for the walk; the Cannes Film Festival's trailers for the festival cut; Exit Through the Gift Shop, credited
-to Banksy, for the camcorder; Quentin Tarantino's Reservoir Dogs and Pulp Fiction for the trunk shot; and the
+to Banksy, for the camcorder; Quentin Tarantino's Reservoir Dogs and Pulp Fiction for the trunk shot; Sergio Leone's The Good, the Bad and the Ugly for the stand-off; and the
 Paddington films for how real fur on a designed character should look.
 
 The films are made with Seedance 2 and Seedream 4.5 from ByteDance, run on Replicate, and the trunk shot's opening
