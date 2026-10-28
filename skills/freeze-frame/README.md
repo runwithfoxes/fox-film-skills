@@ -1,5 +1,9 @@
 # Freeze frame (Rounders)
 
+<a href="../../assets/films/freeze-frame.mp4"><img src="../../assets/stills/freeze-frame-play.jpg" alt="Play the film" width="640"></a>
+
+[Play the film](../../assets/films/freeze-frame.mp4).
+
 <img src="../../assets/gifs/freeze-frame.gif" alt="The fox at a poker table glances up, the picture flashes and freezes with the title Think in bets" width="560">
 
 The character is mid-action, the picture flashes white and freezes with a title for two seconds, then the film

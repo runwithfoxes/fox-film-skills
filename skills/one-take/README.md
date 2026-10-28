@@ -1,5 +1,9 @@
 # One-take (Goodfellas)
 
+<a href="../../assets/films/one-take.mp4"><img src="../../assets/stills/one-take-play.jpg" alt="Play the film" width="640"></a>
+
+[Play the film](../../assets/films/one-take.mp4).
+
 <img src="../../assets/gifs/one-take.gif" alt="The fox walks toward the camera down a service corridor, then a hard cut to a kitchen as he keeps walking" width="600">
 
 The character walks at a camera that backs away in front of them, and the place changes behind them with hard

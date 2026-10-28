@@ -1,5 +1,9 @@
 # Hyperspeed
 
+<a href="../../assets/films/hyperspeed.mp4"><img src="../../assets/stills/hyperspeed-play.jpg" alt="Play the film" width="640"></a>
+
+[Play the film](../../assets/films/hyperspeed.mp4).
+
 <img src="../../assets/gifs/hyperspeed.gif" alt="The camera flies over a Mediterranean coast and lands on the fox, sitting still on a rooftop wall with a book" width="560">
 
 The camera flies fast through a whole place and lands on the character, who hasn't moved. One clip, about seven

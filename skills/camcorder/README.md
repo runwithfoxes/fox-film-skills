@@ -1,5 +1,9 @@
 # Camcorder (Exit Through the Gift Shop)
 
+<a href="../../assets/films/camcorder.mp4"><img src="../../assets/stills/camcorder-play.jpg" alt="Play the film" width="640"></a>
+
+[Play the film](../../assets/films/camcorder.mp4).
+
 <img src="../../assets/gifs/camcorder.gif" alt="Grainy night camcorder footage of the fox spray-painting an orange fox on a brick wall, with an amber date stamp" width="560">
 
 The character filmed at night on an old camcorder, spray-painting their own logo on a wall, with one bored glance

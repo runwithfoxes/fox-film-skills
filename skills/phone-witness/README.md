@@ -1,5 +1,9 @@
 # Phone witness
 
+<a href="../../assets/films/phone-witness.mp4"><img src="../../assets/stills/phone-witness-play.jpg" alt="Play the film" width="300"></a>
+
+[Play the film](../../assets/films/phone-witness.mp4).
+
 <img src="../../assets/gifs/phone-witness.gif" alt="Vertical phone footage of the fox walking through Times Square, seen through a phone camera screen with REC timer and focus box" width="300">
 
 The character caught on a stranger's phone, seen through the phone's own camera screen, with one bored glance at the

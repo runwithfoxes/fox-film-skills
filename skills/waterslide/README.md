@@ -1,5 +1,9 @@
 # Waterslide
 
+<a href="../../assets/films/waterslide.mp4"><img src="../../assets/stills/waterslide-play.jpg" alt="Play the film" width="640"></a>
+
+[Play the film](../../assets/films/waterslide.mp4).
+
 <img src="../../assets/gifs/waterslide.gif" alt="The fox rides a green waterslide in a yellow ring through a back garden, ending soaked and unimpressed in close-up" width="560">
 
 An action montage where the character does something fast and fun and never cracks a smile.

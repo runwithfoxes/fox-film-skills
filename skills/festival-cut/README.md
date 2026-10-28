@@ -1,5 +1,9 @@
 # Festival cut (Cannes)
 
+<a href="../../assets/films/festival-cut.mp4"><img src="../../assets/stills/festival-cut-play.jpg" alt="Play the film" width="640"></a>
+
+[Play the film](../../assets/films/festival-cut.mp4).
+
 <img src="../../assets/gifs/festival-cut.gif" alt="The fox walks toward the camera through a Times Square crossing, then letterbox, laurels and the title Direct Traffic fade in" width="560">
 
 The character filmed as documentary in a real place, then dressed as a festival trailer, so they walk into the

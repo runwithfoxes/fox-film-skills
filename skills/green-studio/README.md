@@ -1,5 +1,9 @@
 # Green studio
 
+<a href="../../assets/films/green-studio.mp4"><img src="../../assets/stills/green-studio-play.jpg" alt="Play the film" width="480"></a>
+
+[Play the film](../../assets/films/green-studio.mp4).
+
 <img src="../../assets/gifs/green-studio.gif" alt="The fox stands on the first bar of a chart, rides it up, jumps onto the taller bar beside it and hops back down" width="420">
 
 The character acts on a flat green studio, gets cut out on every frame, and is laid on a chart drawn in code. The

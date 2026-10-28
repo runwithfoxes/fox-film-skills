@@ -1,5 +1,9 @@
 # Trunk shot (Tarantino)
 
+<a href="../../assets/films/trunk-shot.mp4"><img src="../../assets/stills/trunk-shot-play.jpg" alt="Play the film" width="640"></a>
+
+[Play the film](../../assets/films/trunk-shot.mp4).
+
 <img src="../../assets/gifs/trunk-shot.gif" alt="From inside a car boot, the lid opens on a desert road and Paul and the fox, in black suits, look down into the boot" width="560">
 
 The camera is inside a car boot. It opens from black, and the character is standing there looking down, unimpressed.
