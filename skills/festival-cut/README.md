@@ -1,13 +1,13 @@
 # Festival cut (Cannes)
 
-<a href="../../assets/films/festival-cut.mp4"><img src="../../assets/stills/festival-cut-play.jpg" alt="Play the film" width="640"></a>
+<a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/festival-cut.mp4"><img src="../../assets/stills/festival-cut-play.jpg" alt="Play the film" width="640"></a>
 
-[Play the film](../../assets/films/festival-cut.mp4).
+[Play the film](https://runwithfoxes.github.io/fox-film-skills/assets/films/festival-cut.mp4).
 
 <img src="../../assets/gifs/festival-cut.gif" alt="The fox walks toward the camera through a Times Square crossing, then letterbox, laurels and the title Direct Traffic fade in" width="560">
 
 The character filmed as documentary in a real place, then dressed as a festival trailer, so they walk into the
-finished poster. [Watch it full size](../../assets/films/festival-cut.mp4).
+finished poster. [Watch it full size](https://runwithfoxes.github.io/fox-film-skills/assets/films/festival-cut.mp4).
 
 How to make it is in [SKILL.md](SKILL.md). The laurels and title are web page templates here; `render_overlays.py`
 captures them and `build.sh` puts the film together. Start with [film-basics](../film-basics) to set up your own

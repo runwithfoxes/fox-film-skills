@@ -1,13 +1,13 @@
 # Camcorder (Exit Through the Gift Shop)
 
-<a href="../../assets/films/camcorder.mp4"><img src="../../assets/stills/camcorder-play.jpg" alt="Play the film" width="640"></a>
+<a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/camcorder.mp4"><img src="../../assets/stills/camcorder-play.jpg" alt="Play the film" width="640"></a>
 
-[Play the film](../../assets/films/camcorder.mp4).
+[Play the film](https://runwithfoxes.github.io/fox-film-skills/assets/films/camcorder.mp4).
 
 <img src="../../assets/gifs/camcorder.gif" alt="Grainy night camcorder footage of the fox spray-painting an orange fox on a brick wall, with an amber date stamp" width="560">
 
 The character filmed at night on an old camcorder, spray-painting their own logo on a wall, with one bored glance
-back at the lens. [Watch it full size](../../assets/films/camcorder.mp4).
+back at the lens. [Watch it full size](https://runwithfoxes.github.io/fox-film-skills/assets/films/camcorder.mp4).
 
 How to make it is in [SKILL.md](SKILL.md). `camcorder_ui.py` draws the date stamp and `build.sh` adds the shake,
 grain and colour. Start with [film-basics](../film-basics) to set up your own character, and read the character lock

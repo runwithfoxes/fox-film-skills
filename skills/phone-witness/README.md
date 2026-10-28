@@ -1,13 +1,13 @@
 # Phone witness
 
-<a href="../../assets/films/phone-witness.mp4"><img src="../../assets/stills/phone-witness-play.jpg" alt="Play the film" width="300"></a>
+<a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/phone-witness.mp4"><img src="../../assets/stills/phone-witness-play.jpg" alt="Play the film" width="300"></a>
 
-[Play the film](../../assets/films/phone-witness.mp4).
+[Play the film](https://runwithfoxes.github.io/fox-film-skills/assets/films/phone-witness.mp4).
 
 <img src="../../assets/gifs/phone-witness.gif" alt="Vertical phone footage of the fox walking through Times Square, seen through a phone camera screen with REC timer and focus box" width="300">
 
 The character caught on a stranger's phone, seen through the phone's own camera screen, with one bored glance at the
-lens. Vertical, for Stories and Reels. [Watch it full size](../../assets/films/phone-witness.mp4).
+lens. Vertical, for Stories and Reels. [Watch it full size](https://runwithfoxes.github.io/fox-film-skills/assets/films/phone-witness.mp4).
 
 How to make it is in [SKILL.md](SKILL.md). The phone screen is two web page templates here, `timer.py` draws the
 counting timer, and `build.sh` adds the hand shake and puts it together. Start with [film-basics](../film-basics)
