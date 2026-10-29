@@ -28,6 +28,7 @@ and the mistakes we made first so you don't have to.
 | <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/trunk-shot.mp4"><img src="../assets/stills/trunk-shot-play.jpg" alt="Play the trunk-shot film" width="240"></a> | **[trunk-shot](../skills/trunk-shot)**<br>Tarantino's shot from inside a car boot: it opens from black on your character looking down. |
 | <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/real-world.mp4"><img src="../assets/stills/real-world-play.jpg" alt="Play the real-world film" width="240"></a> | **[real-world](../skills/real-world)**<br>Your animated character in a real, photographic place, like a launderette at night, in one run of Seedance 2.5. |
 | <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/story-in-one-run.mp4"><img src="../assets/stills/story-in-one-run-play.jpg" alt="Play the story-in-one-run film" width="240"></a> | **[story-in-one-run](../skills/story-in-one-run)**<br>A whole story with your character, up to 30 seconds, in one run of Seedance 2.5, so the face holds all the way. Ours is a wingsuit flight down a canyon. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/day-in-scenes.mp4"><img src="../assets/stills/day-in-scenes-play.jpg" alt="Play the day-in-scenes film" width="240"></a> | **[day-in-scenes](../skills/day-in-scenes)**<br>Three short films of your character joined into one day, with the time and the temperature on black between them, the way Do the Right Thing tracks the heat on one block. |
 | <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/stand-off.mp4"><img src="../assets/stills/stand-off-play.jpg" alt="Play the stand-off film" width="240"></a> | **[stand-off](../skills/stand-off)**<br>Sergio Leone's duel: your character and a real animal stare each other down over one small thing, in eye close-ups, until both move at once. |
 | <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/still-shot.mp4"><img src="../assets/stills/still-shot-play.jpg" alt="Play the still-shot film" width="240"></a> | **[still-shot](../skills/still-shot)**<br>A one-joke comedy in one still shot, the Coen brothers' way: a plain camera, washed-out colour, and your character losing to something absurd. |
 
@@ -61,7 +62,7 @@ third arm now and then.
 The films named here are the inspiration, and the credit belongs to the people who made them: Rounders, Danny
 Boyle's Trainspotting and Guy Ritchie's films for the freeze frame; Martin Scorsese's Goodfellas, filmed by Michael
 Ballhaus, for the walk; the Cannes Film Festival's trailers for the festival cut; Exit Through the Gift Shop, credited
-to Banksy, for the camcorder; Quentin Tarantino's Reservoir Dogs and Pulp Fiction for the trunk shot; Sergio Leone's The Good, the Bad and the Ugly for the stand-off; the Coen brothers' Fargo for the still shot; and the
+to Banksy, for the camcorder; Quentin Tarantino's Reservoir Dogs and Pulp Fiction for the trunk shot; Sergio Leone's The Good, the Bad and the Ugly for the stand-off; Spike Lee's Do the Right Thing for the day in scenes; the Coen brothers' Fargo for the still shot; and the
 Paddington films for how real fur on a designed character should look.
 
 The films are made with Seedance 2 and Seedream 4.5 from ByteDance, run on Replicate, and the trunk shot's opening
