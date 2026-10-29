@@ -13,23 +13,25 @@ and the mistakes we made first so you don't have to.
 
 ## The skills
 
-| Skill | What it makes |
+| Film | Skill and what it makes |
 |---|---|
-| [film-basics](../skills/film-basics) | Start here. How to set up your own character so it holds across every clip, how to call the models, what it costs, and what the models get wrong. |
-| [hyperspeed](../skills/hyperspeed) | The camera flies fast through a whole place and lands on your character, who hasn't moved. |
-| [freeze-frame](../skills/freeze-frame) | The Rounders and Trainspotting intro: mid-action, a white flash, a freeze with a title, then the film carries on. |
-| [one-take](../skills/one-take) | The Goodfellas walk: your character walks at a camera that backs away, and the place changes behind them with hard cuts. |
-| [waterslide](../skills/waterslide) | An action montage where your character does something fast and fun and never smiles. |
-| [character-walk](../skills/character-walk) | Your character walks, toward the camera or away down a tunnel, and only the place changes. |
-| [festival-cut](../skills/festival-cut) | Documentary footage in a real place, dressed as a Cannes trailer: letterbox, laurels, a title the character walks into. |
-| [phone-witness](../skills/phone-witness) | Your character caught on a stranger's phone, seen through the phone camera's own screen. Vertical. |
-| [camcorder](../skills/camcorder) | Night-time camcorder footage of your character spray-painting a wall, after Exit Through the Gift Shop. |
-| [green-studio](../skills/green-studio) | Your character acts on a green studio, gets cut out, and is laid on a chart drawn in code. |
-| [trunk-shot](../skills/trunk-shot) | Tarantino's shot from inside a car boot: it opens from black on your character looking down. |
-| [stand-off](../skills/stand-off) | Sergio Leone's duel: your character and a real animal stare each other down over one small thing, in eye close-ups, until both move at once. |
-| [still-shot](../skills/still-shot) | A one-joke comedy in one still shot, the Coen brothers' way: a plain camera, washed-out colour, and your character losing to something absurd. |
+|  | **[film-basics](../skills/film-basics)**<br>Start here. How to set up your own character so it holds across every clip, how to call the models, what it costs, and what the models get wrong. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/hyperspeed.mp4"><img src="../assets/stills/hyperspeed-play.jpg" alt="Play the hyperspeed film" width="240"></a> | **[hyperspeed](../skills/hyperspeed)**<br>The camera flies fast through a whole place and lands on your character, who hasn't moved. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/freeze-frame.mp4"><img src="../assets/stills/freeze-frame-play.jpg" alt="Play the freeze-frame film" width="240"></a> | **[freeze-frame](../skills/freeze-frame)**<br>The Rounders and Trainspotting intro: mid-action, a white flash, a freeze with a title, then the film carries on. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/one-take.mp4"><img src="../assets/stills/one-take-play.jpg" alt="Play the one-take film" width="240"></a> | **[one-take](../skills/one-take)**<br>The Goodfellas walk: your character walks at a camera that backs away, and the place changes behind them with hard cuts. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/waterslide.mp4"><img src="../assets/stills/waterslide-play.jpg" alt="Play the waterslide film" width="240"></a> | **[waterslide](../skills/waterslide)**<br>An action montage where your character does something fast and fun and never smiles. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/character-walk.mp4"><img src="../assets/stills/character-walk-play.jpg" alt="Play the character-walk film" width="240"></a> | **[character-walk](../skills/character-walk)**<br>Your character walks, toward the camera or away down a tunnel, and only the place changes. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/festival-cut.mp4"><img src="../assets/stills/festival-cut-play.jpg" alt="Play the festival-cut film" width="240"></a> | **[festival-cut](../skills/festival-cut)**<br>Documentary footage in a real place, dressed as a Cannes trailer: letterbox, laurels, a title the character walks into. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/phone-witness.mp4"><img src="../assets/stills/phone-witness-play.jpg" alt="Play the phone-witness film" width="240"></a> | **[phone-witness](../skills/phone-witness)**<br>Your character caught on a stranger's phone, seen through the phone camera's own screen. Vertical. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/camcorder.mp4"><img src="../assets/stills/camcorder-play.jpg" alt="Play the camcorder film" width="240"></a> | **[camcorder](../skills/camcorder)**<br>Night-time camcorder footage of your character spray-painting a wall, after Exit Through the Gift Shop. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/green-studio.mp4"><img src="../assets/stills/green-studio-play.jpg" alt="Play the green-studio film" width="240"></a> | **[green-studio](../skills/green-studio)**<br>Your character acts on a green studio, gets cut out, and is laid on a chart drawn in code. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/trunk-shot.mp4"><img src="../assets/stills/trunk-shot-play.jpg" alt="Play the trunk-shot film" width="240"></a> | **[trunk-shot](../skills/trunk-shot)**<br>Tarantino's shot from inside a car boot: it opens from black on your character looking down. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/real-world.mp4"><img src="../assets/stills/real-world-play.jpg" alt="Play the real-world film" width="240"></a> | **[real-world](../skills/real-world)**<br>Your animated character in a real, photographic place, like a launderette at night, in one run of Seedance 2.5. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/story-in-one-run.mp4"><img src="../assets/stills/story-in-one-run-play.jpg" alt="Play the story-in-one-run film" width="240"></a> | **[story-in-one-run](../skills/story-in-one-run)**<br>A whole story with your character, up to 30 seconds, in one run of Seedance 2.5, so the face holds all the way. Ours is a wingsuit flight down a canyon. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/stand-off.mp4"><img src="../assets/stills/stand-off-play.jpg" alt="Play the stand-off film" width="240"></a> | **[stand-off](../skills/stand-off)**<br>Sergio Leone's duel: your character and a real animal stare each other down over one small thing, in eye close-ups, until both move at once. |
+| <a href="https://runwithfoxes.github.io/fox-film-skills/assets/films/still-shot.mp4"><img src="../assets/stills/still-shot-play.jpg" alt="Play the still-shot film" width="240"></a> | **[still-shot](../skills/still-shot)**<br>A one-joke comedy in one still shot, the Coen brothers' way: a plain camera, washed-out colour, and your character losing to something absurd. |
 
-Every skill folder has a short README with one of our films, and a SKILL.md with the method.
+Click a picture to play the film with sound. Every skill folder has a short README with the film, and a SKILL.md with the method.
 
 ## How to use them
 
