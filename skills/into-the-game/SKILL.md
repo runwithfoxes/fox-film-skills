@@ -5,7 +5,7 @@ description: A short film where your character goes from a real place into a vid
 
 # From the real world into a video game
 
-Your character stands in a real place, the world breaks into big square blocks, and they end up as a pixel character in a game. Our film is 12 seconds: the fox drops a coin into a cabinet in a real 1984 arcade, the room starts to break into red blocks, and on a game screen he taps a block and gets one coin back.
+Your character stands in a real place, the world breaks into big square blocks, and they end up as a pixel character in a game. Our film is 12 seconds: the fox drops a coin into a cabinet in a realistic 1984 arcade, the room starts to break into red blocks, and on a game screen he taps a block and gets one coin back.
 
 Read `film-basics` first for the character description and the reference pictures, and `story-in-one-run` for how to run a whole film in one go.
 

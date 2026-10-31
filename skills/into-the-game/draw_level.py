@@ -1,5 +1,5 @@
 # A chunky pixel character in a game level, the picture you give the model. No model and no spend: every pixel placed in code on a 213 x 120 grid,
-# then blown up six times, so each game pixel is six real pixels on a 1280 x 720 frame.
+# then blown up six times, so each game pixel is six real pixels on a 1278 x 720 frame.
 from PIL import Image, ImageDraw
 import numpy as np
 W,H=213,120; K=6

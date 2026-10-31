@@ -91,7 +91,4 @@ def build(HT=70,PAD=3):
     a=im[...,3]>0; b=a|sh(a,1,0)|sh(a,-1,0)|sh(a,0,1)|sh(a,0,-1); o=b&~a; im[o,:3]=C["line"]; im[o,3]=255
     return Image.fromarray(im,"RGBA")
 if __name__=="__main__":
-    f=build(); f.save("fox-sprite.png"); print(f.size)
-    k=8; u=f.resize((f.width*k,f.height*k),Image.NEAREST); bg=Image.new("RGBA",u.size,(255,255,255,255)); bg.alpha_composite(u)
-    r=Image.open("fox-front.png").convert("RGB"); r=r.resize((round(r.width*u.height/r.height),u.height),Image.LANCZOS)
-    c=Image.new("RGB",(r.width+u.width+40,u.height+20),(255,255,255)); c.paste(r,(10,10)); c.paste(bg.convert("RGB"),(r.width+30,10)); c.save("sprite-compare.png")
+    f=build(HT=72); f.save("fox-sprite.png"); print(f.size)
