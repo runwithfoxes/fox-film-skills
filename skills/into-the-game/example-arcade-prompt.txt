@@ -1,0 +1,15 @@
+A 12 second film in one continuous take. [Image1] is the fox. [Image2] shows the video game world and the pixel art look he ends up in.
+
+CHARACTER: the stylized cartoon fox exactly as [Image1], rendered with realistic fur: large round head, short muzzle, huge half-lidded yellow eyes, flat grumpy mouth, compact small frame, orange fur with a white chest, dark grey hoodie, full-length dark blue jeans. He walks upright on two legs like a person. Exactly two arms, two paws and two feet. Keep his face and outfit the same in every shot. He is bored and unimpressed the whole way through and never reacts to anything with surprise.
+
+LOOK: a 1980s American small town at night, the feel of a 1980s Spielberg film and a modern retro TV thriller. 35mm film grain, anamorphic lens, soft halation round every light, neon and CRT glow as the only light, haze in the air, deep shadows, red and electric blue. It is 1984.
+
+0-4s, the real world. A real small-town video arcade after closing time, shot as live-action film: wood panelling, patterned carpet, a row of dark cabinets, one lit. It is empty. Rain on the window behind, red neon outside. The fox stands at the one glowing upright cabinet, three-quarter toward the camera, its light on his face. He takes a coin from his hoodie pocket with one paw, drops it in the slot, sighs, and presses one button.
+
+4-7s, the change. The ceiling lights flicker and go out, one after another. The cabinet screen flares red. The red light spreads out of the screen and the real room breaks into big hard square blocks, starting at the screen and travelling outward across the cabinet, the carpet and the walls. The same blocks travel up the fox from his feet to his ears, until his fur and hoodie are made of big flat squares. The camera pushes in slowly as it happens and never cuts.
+
+7-12s, the game. Now everything is the chunky pixel art world of [Image2], seen on an old CRT screen with scanlines: flat colours, big square pixels, hard edges, a dark night sky with stars, dark purple hills, a glowing red ground, a row of red floating bricks with one gold block. The fox is now the chunky pixel fox of [Image2], in his hoodie and jeans, big head, half-closed bored eyes under heavy lids, standing on the ground, and he moves in the stiff few-frame way of an old video game. He takes one slow step, reaches up with one paw and taps the gold block. One gold coin pops out, falls and bounces once at his feet. He looks at the coin, then turns his head and looks straight out at the viewer, deadpan.
+
+SOUND: a slow pulsing analog synthesizer arpeggio, low and tense, all the way through. 0-4s under it, rain, a distant hum, the coin dropping into the slot, a button click. 4-7s the lights buzzing out, the synth rising, the sound breaking into 8-bit noise. 7-12s the synth continues in 8-bit, with a blip for the block and a coin chime. No speech.
+
+NEGATIVE: no words, letters or numbers anywhere on screen, no logos, no people, no robots, no extra limbs, no real fox, no change to his face, no smooth or painted look in the game section, no cut to black, no title text, no children.
